@@ -1,0 +1,16 @@
+body{
+    background-color:grey;
+    color: rgb(255,8,230);
+}
+
+#p1{
+    font-weight:bold;
+    background-color:red;
+    text-align:center;
+    
+}
+
+.class_name{
+    border:6px solid white;   /*this creates a border with 6px thickness, that is solid and colour white*/
+    border-radius: 0px 10px 0px 10px;   /*this creates  border with different radius*/
+}
